@@ -1,22 +1,21 @@
 # ChatCode End User License Agreement
 
-Welcome to experience ChatCode service! Unicom Yuanjing ChatCode is an intelligent research and development tool that integrates advanced AI technology. The service targets employees and developers of China Unicom's partners. This user agreement specifies the scope and applicable conditions of ChatCode services, intellectual property and service guidelines, disclaimer and interpretation rights. When ChatCode is used, it means that you have fully read, understood, and accepted all the contents of this agreement. If you do not agree to this agreement, please do not install and use ChatCode.
+Welcome to experience ChatCode service! Unicom Yuanjing Chat Code is an intelligent research and development tool that integrates advanced artificial intelligence technology. This service is aimed at developers from China Unicom Software Research Institute's own personnel and partners. This user agreement specifies the scope and applicable conditions of ChatCode services, intellectual property and service guidelines, disclaimer and interpretation rights. When using ChatCode, it means that you have fully read, understood, and accepted all the contents of this agreement. If you do not agree to this agreement, please do not install and use ChatCode.
 
 ## I. Service Scope and Applicable Conditions
 
-ChatCode is suitable for code editing and development-related knowledge questions and answers for various software development projects of China Unicom.
-
-Before using ChatCode, you should first complete the registration and login of China Unicom Digital R&D Platform account and follow the platform's account management regulations and permission settings.
+ChatCode is suitable for code editing and development related knowledge Q&A of various software development projects at China Unicom Software Research Institute.
+Before using ChatCode, you should first complete the registration and login of your China Unicom digital R&D platform account, and follow the platform's account management regulations and permission settings.
 
 ## II. Intellectual Property Rights and Service Standards
 
-ChatCode's trademarks, product names, URLs and their combinations (collectively referred to as "Trademarks") are owned by China Unicom Group Co., Ltd. and its affiliates and are protected by intellectual property laws. Without the permission of China Unicom Group Co., Ltd. and its affiliates, you may not display, use or apply for registration of the above "Trademarks" in any way, nor imply or suggest to others that you have the right to display, use or otherwise deal with these "Trademarks".
+The trademarks, product names, URLs, and their combinations (collectively referred to as "trademarks") of ChatCode belong to China Unicom Software Research Institute and its affiliated companies and are protected by intellectual property laws. Without the permission of China Unicom Software Research Institute and its affiliated companies, you are not allowed to display, use or apply for registration of the above-mentioned "trademarks" in any way, nor are you allowed to imply or suggest to others that you have the right to display, use or otherwise deal with these "trademarks".
 
-The intellectual property rights enjoyed by both parties before the use of this Agreement belong to each party, and are not transferred to the other party or jointly enjoyed by both parties due to the performance of this Agreement.
+The intellectual property rights enjoyed by both parties prior to the use of this agreement shall belong to each party and shall not be transferred to the other party or jointly enjoyed by both parties due to the performance of this agreement.
 
-You shall ensure that any materials and information uploaded during the use of this service have the intellectual property rights you own or have obtained the authorization of the legal right holder, and there are no existing or potential disputes between the aforementioned content and your use behavior.
+You should ensure that any materials and information uploaded during the use of this service have intellectual property rights that you own or have been authorized by the legal rights holder, and that there is no dispute or potential dispute between the above content and your usage behavior.
 
-Unless otherwise agreed or provided by laws and regulations, the intellectual property rights of legally uploaded content and the intellectual property rights of synthetic content belong to you. However, whether the aforementioned synthetic content has intellectual property rights and the ownership of rights shall be determined and handled by you; we shall not be responsible for any losses caused by this; if losses are caused to China Unicom Group Co., Ltd. and its affiliates, you shall bear the liability for compensation. You agree to authorize us to use the content you upload, generate, and synthesize within the scope necessary to provide the service.
+Unless otherwise agreed or stipulated by laws and regulations, the intellectual property rights of legally uploaded content and the intellectual property rights of synthesized content belong to you. However, whether the above synthesized content has intellectual property rights and the ownership of rights are determined and handled by you; We are not responsible for any losses caused by this; You shall be liable for compensation for any losses caused to China Unicom Software Research Institute and its affiliated companies. You agree to authorize us to use the content you upload, generate, and synthesize within the scope required to provide the service.
 
 You may not use this service to upload, induce the production of, or disseminate the following types of information by yourself or assist others in doing so:
 
@@ -38,18 +37,16 @@ You may not use this service to upload, induce the production of, or disseminate
 
 You may not attack this service in any way, modify, adapt, translate the software, technology, materials, etc. used by this service, nor obtain the source code involved in this service through reverse engineering, decompiling, disassembling, or other similar actions; otherwise, you shall be responsible for all legal consequences arising therefrom, and we have the right to pursue your legal responsibility according to law.
 
-You agree that we have the right to review the data and synthesis results you input through technical or manual means, and have the right to delete the content that we or China Unicom's relevant institutions believe violates company policies, but such review does not mean that we assume additional responsibilities; you are fully responsible for all actions under your registered account.
+You agree that we have the right to review the data and synthesis results entered by you through technical or manual means, and have the right to delete content that we or relevant institutions of China Unicom Software Research Institute believe violates company policies, but such review does not mean that we assume additional responsibility; You are fully responsible for all actions under the registered account.
 
-If you violate the above regulations, we have the right to give warnings, restrict functions, suspend use, ban accounts, etc. according to the specific circumstances..
+If you violate the above regulations, we have the right to give warnings, restrict functions, suspend use, ban accounts, etc. based on specific circumstances.
 
 ## III. Disclaimer
 
-We cannot guarantee that the content generated by this service is compliant, accurate, and complete, and the generated content does not represent our attitude and views. Please do not rely on all information content generated by this service for us, and we shall not be responsible for any damage caused to you due to your dependence on this platform.
+We cannot guarantee that the content generated by this service is compliant, accurate, and complete, and the generated content does not represent our attitude or viewpoint. Please do not rely on any information generated by this service for us. We are not responsible for any damages caused to you by relying on this platform.
 
 ## IV. Right of Interpretation
 
-The interpretation of the content of this agreement belongs to China Unicom Group Co., Ltd. and its affiliated enterprises.
+The interpretation right of the content of this agreement belongs to China Unicom Software Research Institute and its affiliated enterprises.
 
-We have the right to modify the terms of this agreement at any time and will make announcements or notifications through website announcements, emails, internal messages, SMS, and other means; If you continue to use the service after the changes in this agreement, it means that you have fully read, understood, and accepted the modified content and will comply with the modified terms.
-
-If you have any questions or opinions about the content of this Agreement, you can contact us through [devops@chinaunicom.cn].
+We have the right to modify the terms of this agreement at any time and will publish announcements or notices through website announcements, emails, internal messages, SMS, and other means; If you continue to use the service after the modification of this agreement, it means that you have fully read, understood, and accepted the modified content, and will comply with the modified terms.
